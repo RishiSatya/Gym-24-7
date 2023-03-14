@@ -1,6 +1,5 @@
 ## Anushka GYM Website
 
-![Anushka GYM](gym.jpg)
 
 # Project Title
 
@@ -8,7 +7,7 @@ Responsive Gym website
 
 ## 1. Demo Website
 
-- 👉 Netlify : https://anushka-gym.netlify.app/
+- 👉 Netlify : 
 
 
 ## 2. You Will Learn
@@ -29,9 +28,8 @@ Responsive Gym website
 ## 3. Clone repo
 
 ```
-$ git@github.com:NileshShriwas/Anushka-GYM.git
-$ cd Anushka-GYM
-```
+#cd 24*7 GYM
+
 ## 4. Run 
 ```
 - Run this on chrome: http://192.168.142.77:5500/index.html
